@@ -1,0 +1,7 @@
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\bin\Debug\Lab11_UML.exe.config
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\bin\Debug\Lab11_UML.exe
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\bin\Debug\Lab11_UML.pdb
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\obj\Debug\Lab11_UML.csprojResolveAssemblyReference.cache
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\obj\Debug\Lab11_UML.csproj.CoreCompileInputs.cache
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\obj\Debug\Lab11_UML.exe
+c:\users\jjflo\source\repos\Lab11_UML\Lab11_UML\obj\Debug\Lab11_UML.pdb
